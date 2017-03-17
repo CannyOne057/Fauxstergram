@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "477411633745",
+    "firebase_url": "https://fauxstergram.firebaseio.com",
+    "project_id": "fauxstergram",
+    "storage_bucket": "fauxstergram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477411633745:android:029a0621f5864c0f",
+        "android_client_info": {
+          "package_name": "me.bjorkbat.fauxstergram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477411633745-731pkqtji0e2fnuf3mbk9b7au87sb424.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5YvZA95C18vYBbf2y4nCr75eyWBJ9Wj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
