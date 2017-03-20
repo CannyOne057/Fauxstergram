@@ -3,4 +3,5 @@
     <string name="sign_in_cancelled">You need to be logged-in in order to use the app</string>
     <string name="sign_in_no_connection">No internet connection.  Try again</string>
     <string name="sign_in_weird">Unexpected error.  Try signing in again later.</string>
+    <string name="upload_fail">Couldn\'t upload picture.  Try again.</string>
 </resources>

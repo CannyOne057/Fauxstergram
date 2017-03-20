@@ -21,6 +21,8 @@ public class FauxstergramPagerAdapter extends FragmentPagerAdapter {
             case 0:
                 return new FeedFragment();
             case 1:
+                return new UploadFragment();
+            case 2:
                 return new LogoutFragment();
         }
 
@@ -29,7 +31,7 @@ public class FauxstergramPagerAdapter extends FragmentPagerAdapter {
 
     @Override
     public int getCount() {
-        return 2;
+        return 3;
     }
 
     @Override
@@ -39,6 +41,8 @@ public class FauxstergramPagerAdapter extends FragmentPagerAdapter {
             case 0:
                 return "Feed";
             case 1:
+                return "Upload";
+            case 2:
                 return "Logout";
         }
 
